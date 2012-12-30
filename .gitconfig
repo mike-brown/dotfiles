@@ -1,0 +1,7 @@
+[user]
+	name = Mike Brown
+
+[alias]
+  st = status
+  ci = commit
+  co = checkout
